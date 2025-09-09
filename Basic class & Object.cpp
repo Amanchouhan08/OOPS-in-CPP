@@ -1,3 +1,4 @@
+//if we not declear the class as public then it is by defult private class.
 #include<iostream>
 using namespace std;
 
