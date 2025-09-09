@@ -1,5 +1,6 @@
 //if we not declear the class as public then it is by defult private class.
 //In private class we not access directly throught object.
+//In private class we get access through the help of function.
 #include<iostream>
 using namespace std;
 
