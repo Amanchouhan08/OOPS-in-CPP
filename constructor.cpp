@@ -28,7 +28,7 @@ class Student{
         (*this).age=age;      //this-> and (*this). both ade same
         roll=40;
     }
-    void display(){
+    void display(){          //display function
         cout<<name<<" "<<age<<" "<<roll<<" "<<endl;
     }
 };
@@ -42,3 +42,5 @@ int main(){
     s3.display();
     return 0;
 }
+
+
