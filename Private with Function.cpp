@@ -1,5 +1,5 @@
 //insert value in private class using function
-
+//in public class we can access directly.
 #include<iostream>
 using namespace std;
 
