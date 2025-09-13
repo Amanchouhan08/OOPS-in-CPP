@@ -1,4 +1,4 @@
-//Defult copy construction
+//Defult copy construction "How we can copy one object to another"
 #include<iostream>
 using namespace  std;
 class Bank{
