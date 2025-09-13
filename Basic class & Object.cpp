@@ -28,4 +28,5 @@ int main(){
     cout<<s1.name<<" "<<s1.age<<" "<<s1.roll<<" "<<s1.grad<<endl;
     cout<<s2.name<<" "<<s2.age<<" "<<s2.roll<<" "<<s2.grad<<endl;
 
+    return 0;
 }
