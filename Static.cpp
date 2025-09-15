@@ -1,3 +1,4 @@
+//They are the attributes of class or class member.
 #include<iostream>
 using namespace std;
 class Customer{
