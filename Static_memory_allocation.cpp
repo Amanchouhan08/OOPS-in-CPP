@@ -9,9 +9,9 @@ class Customer{
   static int total_customer;
   public:
   Customer(string name, int account, int balance ){
-    this->name;
-    this->account;
-    this->balance;
+    this->name=name;
+    this->account=account;
+    this->balance=balance;
     total_customer++;
   }
   void Display(){
