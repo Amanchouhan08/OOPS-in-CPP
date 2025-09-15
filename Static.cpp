@@ -1,5 +1,6 @@
 //They are the attributes of class or class member.
 //Static member function.
+//if we use static then every object point that.
 #include<iostream>
 using namespace std;
 class Customer{
