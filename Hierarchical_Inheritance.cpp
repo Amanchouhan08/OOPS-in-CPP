@@ -14,7 +14,7 @@ class mother:public father{
         this->mother_name=mother_name;
     }
     void Display(){
-        cout<<father_name<<" "<<mother_name;
+        cout<<father_name<<" "<<mother_name<<endl;
     }
 };
 
