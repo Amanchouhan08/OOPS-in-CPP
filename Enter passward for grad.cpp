@@ -1,4 +1,4 @@
-//Practice  question
+//Practice  question from oops concept.
 #include<iostream>
 using namespace std;
 
