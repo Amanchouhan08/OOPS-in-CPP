@@ -1,4 +1,4 @@
-//Display only essensial information hiding the details.
+//Display only essensial information and hidden the crucial details.
 #include<iostream>
 using namespace std;
 class Customer{
