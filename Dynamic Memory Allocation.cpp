@@ -1,6 +1,7 @@
 //Dynamic memory Allocation
 #include<iostream>
 using namespace std;
+
 class Student{
  public:
   string name;
@@ -15,5 +16,6 @@ int main(){
      S->grad="A++";
 
      cout<<(*S).name<<" "<<S->age<<" "<<(*S).roll<<" "<<S->grad;
+ 
      return 0;
 }
