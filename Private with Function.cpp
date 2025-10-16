@@ -27,5 +27,6 @@ int main(){
     Student s1;
     s1.setData("Aman", 23, 8, "A++");
     s1.getData();
+    
     return 0;
 }
