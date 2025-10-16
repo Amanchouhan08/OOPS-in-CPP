@@ -2,6 +2,7 @@
 //constructors are not return type.
 #include<iostream>
 using namespace std;
+
 class Student{
     string name;
     int age,roll;
@@ -40,6 +41,7 @@ int main(){
     s2.display();
     Student s3("Satya",22);
     s3.display();
+    
     return 0;
 }
 
